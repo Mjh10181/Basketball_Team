@@ -38,5 +38,7 @@ public class BasketballPlayer extends Player {
 	public double calculateBMI() {
 
 		return 0;
+		
+		print BasketballPlayer;
 	}
 }
