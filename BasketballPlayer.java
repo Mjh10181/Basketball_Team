@@ -38,5 +38,6 @@ public class BasketballPlayer extends Player {
 	public double calculateBMI() {
 
 		return 0;
+		System.out.println("Michael Howard");
 	}
 }
